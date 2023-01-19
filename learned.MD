@@ -1,0 +1,3 @@
+- string interpolation `${}`
+- for in vs for of, keys vs values
+- in WS you cannot run ts directly, either terminal with `tsc` or setup npm
